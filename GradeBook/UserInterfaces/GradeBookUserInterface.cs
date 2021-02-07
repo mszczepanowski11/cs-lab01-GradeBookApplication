@@ -1,4 +1,4 @@
-﻿using GradeBook.Enums;
+using GradeBook.Enums;
 using GradeBook.GradeBooks;
 using System;
 
